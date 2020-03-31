@@ -1,0 +1,9 @@
+TRAIN_FILE = "../data/foursquare_nyc/specific_train.csv"
+TEST_FILE = "../data/foursquare_nyc/specific_test.csv"
+EMBEDDING_SIZE = 256
+HIDDEN_SIZE = 512
+BATCH_SIZE = 256
+LR = 1e-3
+EPOCH = 50
+LAMDA = 0
+DROPOUT = 0.5
